@@ -1,4 +1,4 @@
-#instead of using ajax, i used the following function to call php (svr) to js (client)
+#instead of using ajax, i used the following function to call php (svr) from js (client)
 --found on stack
 
 
